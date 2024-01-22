@@ -37,8 +37,8 @@ Our robot demonstrated impressive agility and accuracy on the track. We are prou
 Witness the LFL Line Follower in action and explore our project further through these links:
 - Run Video: [Watch here](https://youtube.com/shorts/r5TfDh-J7nc?si=Gt-Mq6-U9dJmX2pO)
 - Project Images and Setup:
-  ![Photo of the setup](https://github.com/uantoniaa/LineFollower/assets/93488180/23668a53-e23c-48f4-9fa1-3d67fc7a26a9)
+  ![Photo of the setup](https://github.com/uantoniaa/LineFollower/assets/93488180/410ee062-0888-4e2d-9993-fd97228e9433)
 
-  ![Another photo](https://github.com/uantoniaa/LineFollower/assets/93488180/8e84fdc5-427b-4b1b-97d7-c25c3ae3f9ec)
+  ![Another photo](https://github.com/uantoniaa/LineFollower/assets/93488180/1755ba33-b4b5-46d2-99eb-a5b7fbbd7812)
   
 We hope this overview provides a glimpse into the hard work and dedication behind the LFL Line Follower Project. Our journey from conception to completion was filled with learning, innovation, and teamwork.
