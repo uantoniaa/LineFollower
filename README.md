@@ -45,6 +45,7 @@ Witness the LFL Line Follower in action and explore our project further through 
   [Watch here](https://youtube.com/shorts/r5TfDh-J7nc?si=Gt-Mq6-U9dJmX2pO)
 
 - Project Images and Setup:
+  
                               ![](https://github.com/uantoniaa/LineFollower/assets/93488180/2371a7e5-b265-441e-a13f-5eb894c4b5d9)
   
 We hope this overview provides a glimpse into the hard work and dedication behind the LFL Line Follower Project. Our journey from conception to completion was filled with learning, innovation, and teamwork.
