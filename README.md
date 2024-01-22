@@ -44,7 +44,7 @@ Witness the LFL Line Follower in action and explore our project further through 
 - Run Video:
   [Watch here](https://youtube.com/shorts/r5TfDh-J7nc?si=Gt-Mq6-U9dJmX2pO)
 
-- Project Images and Setup:
+- Project Image and Setup:
   
 ![Photo of the setup](https://github.com/uantoniaa/LineFollower/assets/93488180/bc968b05-9a1e-4658-9864-b4c89f077262)
 
